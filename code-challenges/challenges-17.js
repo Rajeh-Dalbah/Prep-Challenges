@@ -35,6 +35,7 @@ const recursionPattern = (int1, int2) => {
 
 const filterLinks = (str) => {
     return str.substring(str.indexOf("www"),str.indexOf("\">"));
+    
 }
 // -------------------------------------------------------------------------------------------------------
 
